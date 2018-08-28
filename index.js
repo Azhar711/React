@@ -1,1 +1,1 @@
-export { default as PlotterComponent } from './Plotter';
+export { default as AnnotationComponent } from './Annotation';

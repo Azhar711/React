@@ -1,0 +1,8 @@
+.close {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color: #ff0000;
+  border-radius: 15px;
+  cursor: pointer;
+}
